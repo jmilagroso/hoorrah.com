@@ -1,5 +1,5 @@
 
-[https://hoorrah.com/](https://hoorrah.com/)
+[https://hoorrah.com/](https://hoorrah.com/) | [https://hoorrah.com/chat](https://hoorrah.com/chat)
 
 [Canary Deployed via Geo](http://nginx.org/en/docs/http/ngx_http_geo_module.html)
 
