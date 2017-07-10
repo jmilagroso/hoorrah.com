@@ -3,7 +3,7 @@
 
 [Canary Deployed via Geo](http://nginx.org/en/docs/http/ngx_http_geo_module.html)
 
-```ssh
+
 # List of allowed countries.
 IT,"Italy"
 HK,"Hong Kong"
@@ -13,6 +13,5 @@ BR,"Brazil"
 SG,"Singapore"
 AU,"Australia"
 ~~US,"United States"~~
-```
 
 [Validate Accessibility](https://geopeeker.com/fetch/?url=https://hoorrah.com/)
