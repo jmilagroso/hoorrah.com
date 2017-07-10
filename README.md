@@ -12,7 +12,7 @@ GB,"United Kingdom"
 BR,"Brazil"
 SG,"Singapore"
 AU,"Australia"
-US,"United States"
+~~US,"United States"~~
 ```
 
-[Validate Accessibility](https://geopeeker.com/fetch/?url=https%3A%2F%2Fhoorrah.com%2F)
+[Validate Accessibility](https://geopeeker.com/fetch/?url=https://hoorrah.com/)
