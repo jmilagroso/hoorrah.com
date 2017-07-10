@@ -5,13 +5,13 @@
 
 
 # List of allowed countries.
-IT,"Italy"
-HK,"Hong Kong"
-DE,"Germany"
-GB,"United Kingdom"
-BR,"Brazil"
-SG,"Singapore"
-AU,"Australia"
-~~US,"United States"~~
+- IT,"Italy"
+- HK,"Hong Kong"
+- DE,"Germany"
+- GB,"United Kingdom"
+- BR,"Brazil"
+- SG,"Singapore"
+- AU,"Australia"
+- ~~US,"United States"~~
 
 [Validate Accessibility](https://geopeeker.com/fetch/?url=https://hoorrah.com/)
